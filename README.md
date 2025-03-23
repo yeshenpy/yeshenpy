@@ -12,7 +12,7 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://yeshenpy.github.io" target="_blank">yeshenpy.github.io</a></h3>
-<p>Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, a second-year PhD student at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a>, Tianjin University (TJU), advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
+<p>Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, a second-year PhD student at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a> @ Tianjin University (TJU), advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
   
 
 <div style="magin-top: -10px"></div><p> I received the Silver Award in the national “Internet+” Innovation and Entrepreneurship Competition for College Students, Third Prize in the Intel Cup, and completed an internship at NetEase Games. I was awarded <strong>the Tianjin Municipal Government Award and the National Scholarship for Doctoral Students (天津市人民政府奖&博士生国家奖学金)</strong>, and I currently lead a <strong>National Natural Science Foundation of China (NSFC) Youth Project for doctoral researchers (NSFC青年基金博士研究生项目)</strong>.</p>
