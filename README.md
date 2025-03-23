@@ -25,12 +25,12 @@
 
 
 <p  style="margin-top: -10px;">
-  <a href="mailto:lipengyi@tju.edu.cn" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=U9tjvNUAAAAJ&hl=zh-CN" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://github.com/yeshenpy" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="./files/my_wechat.jpg" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://www.zhihu.com/people/ye-shen-83-32" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
-  <a href="https://www.xiaohongshu.com/user/profile/5cc5a0100000000016022161" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+  <a href="mailto:lipengyi@tju.edu.cn" target="_blank"><img src="./icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=U9tjvNUAAAAJ&hl=zh-CN" target="_blank"><img src="./icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://github.com/yeshenpy" target="_blank"><img src="./icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="./my_wechat.jpg" target="_blank"><img src="./icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://www.zhihu.com/people/ye-shen-83-32" target="_blank"><img src="./icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
+  <a href="https://www.xiaohongshu.com/user/profile/5cc5a0100000000016022161" target="_blank"><img src="./icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
 </p>
 
 # 📑 Papers
