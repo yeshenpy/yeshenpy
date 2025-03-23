@@ -19,6 +19,8 @@
   
 <div style="magin-top: -10px"></div><p> I focus on <b>Embodied AI (具身智能)</b>, <b>Reinforcement Learning and Evolutionary Algorithms</b>, which include Multi-agent Reinforcement Learning, Multi-objective Reinforcement Learning, Multi-task Reinforcement Learning, and Evolutionary Reinforcement Learning. Recently, my emphasis has been on how to build better policy search algorithms and general policy.</p>
 
+<div style="magin-top: -10px"></div><p> I've been really into shuffle dance for ten years now — it's a big passion of mine! I also love electronic music, although lately my ears haven't been cooperating... 😩
+
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
