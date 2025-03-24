@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://yeshenpy.github.io/" target="_blank">Pengyi Li (李鹏翼) 👋</a> <br>
+  :camera: Hi, I'm <a href="https://yeshenpy.github.io/" target="_blank">Pengyi Li (李鹏翼) 👋</a> <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeshenpy&count_bg=%230CF8FF&title_bg=%231F4CF2&icon=audiomack.svg&icon_color=%23E30A0A&title=Page+Viewers&edge_flat=true"/></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yeshenpy">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/yeshenpy">
@@ -11,17 +11,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yeshenpy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-<h3>🏠 <b>Homepage</b>: <a href="https://yeshenpy.github.io" target="_blank">yeshenpy.github.io</a></h3>
-<p>Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, a third-year PhD student at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a> @ Tianjin University (TJU), advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
+<h3>🏠 <a href="https://yeshenpy.github.io" target="_blank">Homepage</a></h3>
+<p>:speaker: Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, a third-year PhD student at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a> @ Tianjin University (TJU), advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
   
 
 <div style="magin-top: -10px"></div><p> I received the Silver Award in the national “Internet+” Innovation and Entrepreneurship Competition for College Students, Third Prize in the Intel Cup, and completed an internship at NetEase Games. I was awarded <strong>the Tianjin Municipal Government Award and the National Scholarship for Doctoral Students (天津市人民政府奖&博士生国家奖学金)</strong>, and I currently lead a <strong>National Natural Science Foundation of China (NSFC) Youth Project for doctoral researchers (NSFC青年基金博士研究生项目)</strong>.</p>
   
 <div style="magin-top: -10px"></div><p> I focus on <b>Reinforcement Learning and Evolutionary Algorithms</b>, which include Multi-agent Reinforcement Learning, Multi-objective Reinforcement Learning, Multi-task Reinforcement Learning, and Evolutionary Reinforcement Learning. <strong>I’m a reinforcement learning enthusiast, and I find the fusion of the EC and RL communities to be absolutely awesome! 🚀🧠</strong> Recently, my emphasis has been on <b>Embodied AI (具身智能)</b> and <b>Circuit Design (电路设计)</b>.</p>
 
-<div style="magin-top: -10px"></div><p> I've been really into shuffle dance for ten years now — it's a big passion of mine! I also love electronic music, although lately my ears haven't been cooperating... 😩
+<div style="magin-top: -10px"></div><p> :runner: I've been really into shuffle dance for ten years now — it's a big passion of mine! I also love electronic music, although lately my ears haven't been cooperating... 😩
 
-<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
+<p> :smile_cat: <i style="color: red; display: inline;"> Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
 
