@@ -1,6 +1,6 @@
 <h1 align="center">
   :camera: Hi, I'm <a href="https://yeshenpy.github.io/" target="_blank">Pengyi Li (李鹏翼) 👋</a> <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeshenpy&count_bg=%230CF8FF&title_bg=%231F4CF2&icon=audiomack.svg&icon_color=%23E30A0A&title=Page+Viewers&edge_flat=true"/></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyeshenpy"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyeshenpy&labelColor=%2337d67a&countColor=%23697689&style=flat-square&labelStyle=none" /></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yeshenpy">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/yeshenpy">
 <br>
