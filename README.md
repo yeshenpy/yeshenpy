@@ -37,7 +37,8 @@
 
 # 📑 Papers
 See [My Google Scholar Profile](https://scholar.google.com/citations?user=U9tjvNUAAAAJ&hl=zh-CN) or [My Homepage](https://yeshenpy.github.io) for more details.
-* **[ICML 25]** R*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models (Comming Soon)
+* **[ICML 25 WM Workshop Best Paper]** EmbodiedScene: Towards Automated Generation of Diverse and Realistic Scenes for Embodied AI.
+* **[ICML 25]** R*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models.
 * **[NeurIPS 24]** CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making, [Repo](https://github.com/CleanDiffuserTeam/CleanDiffuser)
 * **[NeurIPS 24]** DiffuserLite: Towards Real-time Diffusion Planning, [Repo](https://github.com/diffuserlite/diffuserlite.github.io)
 * **[IEEE TEVC 24]** Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms, [Repo](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning)
