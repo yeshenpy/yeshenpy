@@ -37,6 +37,9 @@
 
 # 📑 Papers
 See [My Google Scholar Profile](https://scholar.google.com/citations?user=U9tjvNUAAAAJ&hl=zh-CN) or [My Homepage](https://yeshenpy.github.io) for more details.
+* **[NeurIPS 25] SOTA in reward design :boom:** LaRes: Evolutionary Reinforcement Learning with LLM-based Adaptive Reward Search. [Repo](https://github.com/yeshenpy/LaRes)
+* **[NeurIPS 25] SOTA performance :wave:** COLA: Towards Efficient Multi-Objective Reinforcement Learning with Conflict Objective Regularization in Latent Space. [Repo](https://github.com/yeshenpy/COLA)
+* **[NeurIPS 25] The first ERL method for floorplanning :triangular_flag_on_post:**. CORE: Collaborative Optimization with Reinforcement Learning and Evolutionary Algorithm for Floorplanning. [Repo](https://github.com/yeshenpy/CORE)
 * **[ICML 25 WM Workshop] Best Paper :trophy:** EmbodiedScene: Towards Automated Generation of Diverse and Realistic Scenes for Embodied AI.
 * **[ICML 25]** R*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models.
 * **[NeurIPS 24]** CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making, [Repo](https://github.com/CleanDiffuserTeam/CleanDiffuser)
