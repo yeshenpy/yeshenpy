@@ -12,13 +12,10 @@
 
 
 <h3>🏠 <a href="https://yeshenpy.github.io" target="_blank">Homepage</a></h3>
-<p>:speaker: Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, a last-year PhD student at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a> @ Tianjin University (TJU), advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
+<p>:speaker: Hi! I am <strong>Pengyi Li (李鹏翼)</strong>, Associate Professor at <a href="http://rl.beiyang.ren/" target="_blank">TJU RL Lab</a> @ Tianjin University (TJU), During my Ph.D. studies, I was advised by <a href="http://www.icdai.org/jianye.html">Prof. Jianye Hao</a>.</p>
   
-
-<div style="magin-top: -10px"></div><p> I am currently interning at Noah’s Ark Lab. I received the Silver Award in the national “Internet+” Innovation and Entrepreneurship Competition for College Students, Third Prize in the Intel Cup, and completed an internship at NetEase Games. I was awarded <strong>the Tianjin Municipal Government Award and the National Scholarship for Doctoral Students in two consecutive years (天津市人民政府奖&连续两年（24&25）博士生国家奖学金)</strong>, and I currently lead a <strong>National Natural Science Foundation of China (NSFC) Youth Project for doctoral researchers (NSFC青年基金博士生项目, 天津大学首批, 1/19)</strong>. Invited by the NSFC to participate in the New Cornerstone 50 Square Forum, selected as one of 25 PhD representatives nationwide and <strong>the only participant from the field of Computer Science </strong>.</p>
+<p>:mailbox: I am always looking for self-motivated students who are excited about Reinforcement Learning, Embodied AI, and Robot learning.</p>
   
-<div style="magin-top: -10px"></div><p> :trident: I focus on <b>Reinforcement Learning and Evolutionary Algorithms</b>, which include Multi-agent Reinforcement Learning, Multi-objective Reinforcement Learning, Multi-task Reinforcement Learning, and Evolutionary Reinforcement Learning. <strong>I’m a reinforcement learning enthusiast, and I find the fusion of the EC and RL communities to be absolutely awesome! 🚀🧠</strong> Recently, my emphasis has been on <b>Embodied AI (具身智能)</b>, <b>Circuit Design (电路设计)</b> and <b>LLM (大语言模型)</b>.</p>
-
 <div style="magin-top: -10px"></div><p> :runner: I've been really into shuffle dance for ten years now — it's a big passion of mine! I also love electronic music, although lately my ears haven't been cooperating... 😩
 
 <p> :smile_cat: <i style="color: red; display: inline;"> Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
